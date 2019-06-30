@@ -1,0 +1,6 @@
+import wrapText from './wrapText';
+export { wrapText, };
+export default {
+    wrapText,
+};
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiLi9saWIvIiwic291cmNlcyI6WyJpbmRleC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxPQUFPLFFBQVEsTUFBTSxZQUFZLENBQUM7QUFFbEMsT0FBTyxFQUNOLFFBQVEsR0FDUixDQUFBO0FBRUQsZUFBZTtJQUNkLFFBQVE7Q0FDUixDQUFBIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHdyYXBUZXh0IGZyb20gJy4vd3JhcFRleHQnO1xuXG5leHBvcnQge1xuXHR3cmFwVGV4dCxcbn1cblxuZXhwb3J0IGRlZmF1bHQge1xuXHR3cmFwVGV4dCxcbn1cbiJdfQ==
